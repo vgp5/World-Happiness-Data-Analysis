@@ -1,1 +1,3 @@
 # World-Happiness-Data-Analysis
+
+This repository contains code and resources for a comprehensive data analysis project on global happiness trends. Utilizing R and Tableau, the project delves into the complex interplay between happiness scores and various socio-economic factors across countries. From data preprocessing to multiple regression modeling and interactive visualization development, the project offers valuable insights into the determinants of well-being worldwide. Explore the analysis findings, visualizations, and recommendations to gain deeper insights into global happiness dynamics and inform evidence-based decision-making.
