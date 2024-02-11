@@ -1,0 +1,29 @@
+
+Call:
+lm(formula = Ladderscore ~ Logged.GDP.per.capita + Social.support + 
+    Healthy.life.expectancy + Freedom.to.make.life.choices + 
+    Generosity + Perceptions.of.corruption, data = happiness_data)
+
+Residuals:
+    Min      1Q  Median      3Q     Max 
+-1.5336 -0.2353  0.0549  0.3159  1.0724 
+
+Coefficients:
+                             Estimate Std. Error t value Pr(>|t|)    
+(Intercept)                  -2.08022    0.71266  -2.919  0.00415 ** 
+Logged.GDP.per.capita         0.20261    0.07125   2.844  0.00519 ** 
+Social.support                3.92301    0.55890   7.019 1.14e-10 ***
+Healthy.life.expectancy       0.02011    0.01402   1.434  0.15392    
+Freedom.to.make.life.choices  2.34001    0.46786   5.002 1.82e-06 ***
+Generosity                    0.14289    0.32199   0.444  0.65796    
+Perceptions.of.corruption    -0.79790    0.28091  -2.840  0.00524 ** 
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+Residual standard error: 0.4848 on 129 degrees of freedom
+  (1 observation deleted due to missingness)
+Multiple R-squared:  0.828,	Adjusted R-squared:   0.82 
+F-statistic: 103.5 on 6 and 129 DF,  p-value: < 2.2e-16
+
+R-squared: 0.828013868609092
+Adjusted R-squared: 0.820014513660678

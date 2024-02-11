@@ -1,0 +1,11 @@
+Significant Predictors: The analysis indicates that several independent variables have significant effects on the happiness score. Specifically, social support and freedom to make life choices show strong positive associations with happiness, as evidenced by their significant coefficients with p-values less than 0.001.
+
+Moderate Predictors: The logged GDP per capita and perceptions of corruption also appear to have significant effects on happiness, although to a lesser extent compared to social support and freedom to make life choices. These variables have coefficients with p-values less than 0.01, indicating moderate associations with happiness.
+
+Non-Significant Predictors: Healthy life expectancy, generosity, and perceptions of corruption do not appear to have statistically significant effects on happiness, as their coefficients have p-values greater than the conventional significance level of 0.05.
+
+Model Fit: The regression model exhibits a high level of explanatory power, with an R-squared value of approximately 0.828. This indicates that approximately 82.8% of the variance in happiness scores can be explained by the independent variables included in the model. The adjusted R-squared value, which accounts for the number of predictors in the model, is approximately 0.820, suggesting that the model's explanatory power remains robust even after adjusting for the number of predictors.
+
+Residuals: The residuals from the regression model exhibit a fairly symmetric distribution around zero, with no clear patterns or trends observed. This suggests that the model adequately captures the variation in the data, and there are no substantial biases or outliers affecting the model's performance.
+
+Overall, the results suggest that social support and freedom to make life choices are the strongest predictors of happiness, while other factors such as GDP per capita and perceptions of corruption also play significant roles. However, it's important to note that the model's explanatory power may be influenced by other unmeasured variables or factors not included in the analysis. Further research and exploration may be needed to better understand the determinants of happiness and well-being.
