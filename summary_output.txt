@@ -1,0 +1,32 @@
+ Country.name        Ladder.score   Standard.error.of.ladder.score  upperwhisker    lowerwhisker   Logged.GDP.per.capita
+ Length:137         Min.   :1.859   Min.   :0.02900                Min.   :1.923   Min.   :1.795   Min.   : 5.527       
+ Class :character   1st Qu.:4.724   1st Qu.:0.04700                1st Qu.:4.980   1st Qu.:4.496   1st Qu.: 8.591       
+ Mode  :character   Median :5.684   Median :0.06000                Median :5.797   Median :5.529   Median : 9.567       
+                    Mean   :5.540   Mean   :0.06472                Mean   :5.667   Mean   :5.413   Mean   : 9.450       
+                    3rd Qu.:6.334   3rd Qu.:0.07700                3rd Qu.:6.441   3rd Qu.:6.243   3rd Qu.:10.540       
+                    Max.   :7.804   Max.   :0.14700                Max.   :7.875   Max.   :7.733   Max.   :11.660       
+                                                                                                                        
+ Social.support   Healthy.life.expectancy Freedom.to.make.life.choices   Generosity       Perceptions.of.corruption
+ Min.   :0.3410   Min.   :51.53           Min.   :0.3820               Min.   :-0.25400   Min.   :0.1460           
+ 1st Qu.:0.7220   1st Qu.:60.65           1st Qu.:0.7240               1st Qu.:-0.07400   1st Qu.:0.6680           
+ Median :0.8270   Median :65.84           Median :0.8010               Median : 0.00100   Median :0.7740           
+ Mean   :0.7991   Mean   :64.97           Mean   :0.7874               Mean   : 0.02243   Mean   :0.7254           
+ 3rd Qu.:0.8960   3rd Qu.:69.41           3rd Qu.:0.8740               3rd Qu.: 0.11700   3rd Qu.:0.8460           
+ Max.   :0.9830   Max.   :77.28           Max.   :0.9610               Max.   : 0.53100   Max.   :0.9290           
+                  NA's   :1                                                                                        
+ Ladder.score.in.Dystopia Explained.by..Log.GDP.per.capita Explained.by..Social.support Explained.by..Healthy.life.expectancy
+ Min.   :1.778            Min.   :0.000                    Min.   :0.000                Min.   :0.0000                       
+ 1st Qu.:1.778            1st Qu.:1.099                    1st Qu.:0.962                1st Qu.:0.2485                       
+ Median :1.778            Median :1.449                    Median :1.227                Median :0.3895                       
+ Mean   :1.778            Mean   :1.407                    Mean   :1.156                Mean   :0.3662                       
+ 3rd Qu.:1.778            3rd Qu.:1.798                    3rd Qu.:1.401                3rd Qu.:0.4875                       
+ Max.   :1.778            Max.   :2.200                    Max.   :1.620                Max.   :0.7020                       
+                                                                                        NA's   :1                            
+ Explained.by..Freedom.to.make.life.choices Explained.by..Generosity Explained.by..Perceptions.of.corruption Dystopia...residual
+ Min.   :0.000                              Min.   :0.0000           Min.   :0.0000                          Min.   :-0.110     
+ 1st Qu.:0.455                              1st Qu.:0.0970           1st Qu.:0.0600                          1st Qu.: 1.555     
+ Median :0.557                              Median :0.1370           Median :0.1110                          Median : 1.849     
+ Mean   :0.540                              Mean   :0.1485           Mean   :0.1459                          Mean   : 1.778     
+ 3rd Qu.:0.656                              3rd Qu.:0.1990           3rd Qu.:0.1870                          3rd Qu.: 2.079     
+ Max.   :0.772                              Max.   :0.4220           Max.   :0.5610                          Max.   : 2.955     
+                                                                                                             NA's   :1          
